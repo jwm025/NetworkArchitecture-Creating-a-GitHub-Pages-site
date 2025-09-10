@@ -1,1 +1,1 @@
-Assignment for NetwrokArchitecture class
+Assignment for NetworkArchitecture class
